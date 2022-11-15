@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "ajv": "^4.11.8",
     "har-validator": "^4.2.1"
   }
 }
